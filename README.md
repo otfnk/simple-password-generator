@@ -13,6 +13,7 @@
 
 * [TailwindCSS](https://tailwindcss.com/docs/installation)
 * [GSAP](https://greensock.com/docs/v3/Installation)
+
 :warning: **TailwindCSS installation is required for style editing.**
 
 ### Author
